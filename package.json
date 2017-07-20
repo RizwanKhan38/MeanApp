@@ -1,0 +1,30 @@
+{
+  "name": "mean-ang4",
+  "version": "1.0.0",
+  "description": "Mean stack with Angular 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RizwanKhan38/MeanApp.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular2",
+    "Application"
+  ],
+  "author": "Rizwan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RizwanKhan38/MeanApp/issues"
+  },
+  "homepage": "https://github.com/RizwanKhan38/MeanApp#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}

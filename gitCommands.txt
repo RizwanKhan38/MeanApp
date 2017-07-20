@@ -1,0 +1,13 @@
+ng new client && cd client/ && ng serve
+
+
+create new branch 
+git checkout -b server-setup
+
+to see in which branch you are working
+
+git branch
+
+to see the changes made in file
+git status
+
